@@ -1,10 +1,10 @@
 <h3 align="center"> Projeto Pokedex</h3>
 
 <h1 align="center">
-    <img width= '800' src=".\.github\pokedex0.png">
-    <img width= '800' src=".\.github\pokedex1.png">
-    <img width= '800' src=".\.github\pokedex2.png">
-    <img width= '800' src=".\.github\pokedex3.png">
+    <img width= '300' src=".\.github\pokedex0.png">
+    <img width= '300' src=".\.github\pokedex1.png">
+    <img width= '300' src=".\.github\pokedex2.png">
+    <img width= '300' src=".\.github\pokedex3.png">
 </h1>
 
 ## 📚 Sobre
